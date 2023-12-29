@@ -1,0 +1,12 @@
+com.example.flutter_chat.app-debug-0 C:\Project\flutterstudy\src\flutter_chat\android\app\src\debug\res
+com.example.flutter_chat.app-main-1 C:\Project\flutterstudy\src\flutter_chat\android\app\src\main\res
+com.example.flutter_chat.app-pngs-2 C:\Project\flutterstudy\src\flutter_chat\build\app\generated\res\pngs\debug
+com.example.flutter_chat.app-resValues-3 C:\Project\flutterstudy\src\flutter_chat\build\app\generated\res\resValues\debug
+com.example.flutter_chat.app-rs-4 C:\Project\flutterstudy\src\flutter_chat\build\app\generated\res\rs\debug
+com.example.flutter_chat.app-mergeDebugResources-5 C:\Project\flutterstudy\src\flutter_chat\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_chat.app-mergeDebugResources-6 C:\Project\flutterstudy\src\flutter_chat\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_chat.app-merged_res-7 C:\Project\flutterstudy\src\flutter_chat\build\app\intermediates\merged_res\debug
+com.example.flutter_chat.app-jetified-window-1.0.0-beta04-8 C:\Users\b1246\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_chat.app-jetified-annotation-experimental-1.1.0-9 C:\Users\b1246\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_chat.app-core-1.6.0-10 C:\Users\b1246\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.flutter_chat.app-jetified-window-java-1.0.0-beta04-11 C:\Users\b1246\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
